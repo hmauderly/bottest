@@ -1,0 +1,27 @@
+{
+  "name": "bottest",
+  "version": "1.0.0",
+  "description": "Sample Bot In Node JS",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "config": "^1.25.1",
+    "express": "^4.15.2",
+    "http": "^0.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmauderly/bottest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmauderly/bottest/issues"
+  },
+  "homepage": "https://github.com/hmauderly/bottest#readme"
+}
